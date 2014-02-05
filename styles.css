@@ -1,3 +1,7 @@
+body {
+  padding: 10px;
+}
+
 .container {
   padding-left: 15px;
   padding-right: 15px;
@@ -6,13 +10,16 @@
 h4 {
   margin-top: 25px;
 }
+
 .row {
   margin-bottom: 20px;
 }
+
 .row .row {
   margin-top: 10px;
   margin-bottom: 0;
 }
+
 [class*="col-md-3"] {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -21,9 +28,11 @@ h4 {
   background-color: rgba(86,61,124,.15);
   border: 1px solid rgba(86,61,124,.2);
   border-radius: 10px;
+  color: #A9A9A9;
 }
 
 hr {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
